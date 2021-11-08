@@ -36,3 +36,5 @@ if __name__ == "__main__":
     import other_folder_file
     print(other_folder_file.other_folder_function())
 
+    print(brotherdir)
+    

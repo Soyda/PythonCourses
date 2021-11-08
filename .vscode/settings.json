@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./exercice_package/principal/child_folder"
+    ]
+}
