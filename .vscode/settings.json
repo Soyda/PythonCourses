@@ -1,5 +1,10 @@
 {
     "python.analysis.extraPaths": [
         "./exercice_package/principal/child_folder"
-    ]
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
